@@ -1,0 +1,140 @@
+/*formulir.php*/
+
+.main_form img {
+	height: 100%;
+}
+
+.formulir {
+	position: relative;
+	margin-left: 40%;
+	padding-top: 7%;
+}
+
+span {
+	color: red;
+}
+
+/*index.php*/
+/* Portofolio ini dibuat oleh Wulandari github:(https://github.com/wulandari8220).*/
+.main img{
+	width: 100%;
+	height:100%;
+	position: absolute;
+}
+
+.menu {
+	position: relative;
+}
+
+.menu {
+	padding-left: 40%;
+	padding-top: 8%;
+}
+
+.menu h1 {
+	padding-bottom: 40px;
+}
+
+.select {
+	display: flex;
+}
+
+.select a {
+	flex: auto;
+	text-decoration: none;
+	width: 10px;
+	text-align: center;
+	
+}
+
+.btn {
+}
+
+/*daftar.php*/
+
+.daftar {
+	position: relative;
+	padding-left: 55%;
+	padding-top: 23%;
+}
+
+.error p {
+	float: left;
+}
+
+.error1 {
+	padding-right: 90px; 
+}
+
+.submit h1 {
+	float: left;
+}
+
+.table_form {
+	padding-bottom: 20px;
+}
+
+/*user.php*/
+.paging_halaman p{
+	float: right;
+	
+}
+
+.halaman_user {
+	text-decoration: none;
+}
+
+/*login.php*/
+.error{
+	color: red;	
+	font-size: 12px;
+}
+
+.select_back{
+	padding-bottom: 70px;
+}
+
+.icon {
+	padding-right: 690px;
+}
+
+.icon2 {
+	padding-right: 50px;
+}
+
+.icon img{
+	width: 60px;
+	height: 60px;
+}
+
+.icon1 img{
+	width: 60px;
+	height: 60px;
+}
+
+.icon2 img{
+	width: 60px;
+	height: 60px;
+}
+
+/*true_login*/
+
+.menu-login {
+	padding-left: 100px;
+}
+
+.menu-login a {
+	padding-right: 130px;
+	text-decoration: none;
+}
+
+/*mydata.php*/
+
+.mydata a {
+	text-decoration: none;
+	padding-right: 20px;
+}
+
+.href_update {
+	padding-left: 3px;
+}
